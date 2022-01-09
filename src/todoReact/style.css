@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-div {
+    text-align: center;
+    width: 100wh;
+    height: 100vh;
+    background-color: rgb(10, 13, 54);
+}
+.child.div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img {
+    background-color: transparent;
+    width: 5rem;
+    height: 4.5rem;
+    margin-top: 2.5rem;
+}
+figcaption {
+    color: white;
+    margin-top: .5rem;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    
+}
+/* .figure {
+    border: dotted 2px rgb(250, 245, 245);
+    margin-top: 0.5rem;
+} */
+.addItem {
+   border: dotted 3px red; 
+}
+.form-control {
+    background-color: white;
+    margin-top: 0.5rem;
+    text-transform: capitalize;
+    font-size: 1rem;
+    font-weight: 600;
+    width: 23rem;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+
+
+.plus-btn {
+    color: black;
+    cursor: pointer;
+    margin-left: -2rem;
+    font-size: 1rem;
+    transition: 600ms;
+}
+
+.plus-btn:hover {
+    color: green;
+}
+
+.showItems {
+    margin-top: 1rem;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 1.3rem;
+}
+.eachItem {
+    align-items: center;
+    color: white;
+    display: inline-flex;
+    width: 23rem auto;
+    min-width: 24rem;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+    background-color: rgb(7, 7, 134);
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    text-transform: uppercase;
+}
+.todo-btn {
+    cursor: pointer;
+    margin-left: 13rem;
+}
+.edit-btn {
+    color: white;
+    padding: 0.5rem;
+}
+.trash-btn {
+    color: white;
+    padding: 0.5rem;
+}
+
+.clear-all {
+    background-color: white;
+    margin: 1rem;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 0.7rem;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: 900ms
+}
+
+.clear-all:hover {
+    background-color: red;
+    color: white;
+}
