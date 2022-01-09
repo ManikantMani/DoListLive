@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DoListLive/static/css/main.2c57503d.chunk.css",
+    "main.js": "/DoListLive/static/js/main.817b554c.chunk.js",
+    "main.js.map": "/DoListLive/static/js/main.817b554c.chunk.js.map",
+    "runtime-main.js": "/DoListLive/static/js/runtime-main.beec16de.js",
+    "runtime-main.js.map": "/DoListLive/static/js/runtime-main.beec16de.js.map",
+    "static/js/2.b8de0d2f.chunk.js": "/DoListLive/static/js/2.b8de0d2f.chunk.js",
+    "static/js/2.b8de0d2f.chunk.js.map": "/DoListLive/static/js/2.b8de0d2f.chunk.js.map",
+    "static/js/3.721a66f5.chunk.js": "/DoListLive/static/js/3.721a66f5.chunk.js",
+    "static/js/3.721a66f5.chunk.js.map": "/DoListLive/static/js/3.721a66f5.chunk.js.map",
+    "index.html": "/DoListLive/index.html",
+    "static/css/main.2c57503d.chunk.css.map": "/DoListLive/static/css/main.2c57503d.chunk.css.map",
+    "static/js/2.b8de0d2f.chunk.js.LICENSE.txt": "/DoListLive/static/js/2.b8de0d2f.chunk.js.LICENSE.txt",
+    "static/media/logo.64a6c5c1.png": "/DoListLive/static/media/logo.64a6c5c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.beec16de.js",
+    "static/js/2.b8de0d2f.chunk.js",
+    "static/css/main.2c57503d.chunk.css",
+    "static/js/main.817b554c.chunk.js"
+  ]
+}
